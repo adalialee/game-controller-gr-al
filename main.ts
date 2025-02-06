@@ -25,12 +25,12 @@ input.onButtonPressed(Button.B, function () {
     basic.pause(500)
 })
 input.onGesture(Gesture.Shake, function () {
-    for (let index = 0; index <= 180; index++) {
+    for (let index = 0; index <= 170; index++) {
         servos.P1.setAngle(index)
     }
     basic.pause(850)
-    for (let index = 0; index <= 180; index++) {
-        servos.P1.setAngle(180 - index)
+    for (let index = 0; index <= 170; index++) {
+        servos.P1.setAngle(170 - index)
     }
     basic.pause(500)
 })
