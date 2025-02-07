@@ -2,6 +2,8 @@
 ## By Gregory Rosa and Adalia Lee
 Micro-Skate is a fun and interactive electromechanical installation piece aimed at mimicking the feeling of executing tricks, which creates a playful yet dynamic experience that captures the essence of skateboarding in a unique electromechanical form. We created this piece using a Micro:bit controller that controlled the rotation of the servos. Recycled cardboard pieces we decorated surround the electronics to cover them and fit the skateboard aesthetic. The piece is meant to be played with the skateboard micro:bit controller. Players can press the buttons to rotate the skateboarder that is attached to two servos side-to-side. They will receive visual and audio warnings if they rotate the player too much and risk losing control. Additionally, players can shake the controller to make the skater do a dynamic trick.  
 <br>
+Here's the link to our YouTube video: https://youtu.be/nHqlhpYNNOw?feature=shared
+<br>
 Here's the link to the draft of our video script: https://docs.google.com/document/d/1VmLk0fJAKCiKHA8Crv1lVEi5D3lIXoFtRub8ndvjV-k/edit?usp=sharing
 <br>
 > Open this page at [https://adalialee.github.io/game-controller-gr-al/](https://adalialee.github.io/game-controller-gr-al/)
